@@ -11,7 +11,7 @@ Pokemonfetch displays information about your operating system, software and hard
 ### Installation
 
 ```bash
-git clone git@github.com:Urinx/pokemonfetch.git -O ~/.pokemonfetch
+git clone https://github.com/Urinx/pokemonfetch.git ~/.pokemonfetch
 chmod +x ~/.pokemonfetch/pokemonfetch
 cp ~/.pokemonfetch/pokemonfetch ~/bin/
 ```
