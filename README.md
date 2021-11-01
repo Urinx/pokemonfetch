@@ -19,3 +19,7 @@ Then you can use this command anywhere, no parameter options can be provided, pl
 ```bash
 pokemonfetch
 ```
+
+### Addition
+
+Here also give my oh-my-posh theme file `mkk.omp.json` if you like my custom theme.
